@@ -1,0 +1,40 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Audio files (large files)
+*.wav
+*.mp3
+*.aiff
+*.flac
+
+# Image files (large files)
+*.psd
+*.ai
+*.eps
+*.tiff
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Node modules (if we add any tools)
+node_modules/
+npm-debug.log*
+
+# Build outputs
+dist/
+build/ 
